@@ -9,7 +9,7 @@
   <li> hover animation on box to draw focus.</li>
 </ol>
 
-<h3> How to play! </h3>
+<h3> <ins> How to play! </ins> </h3>
 
   <p>Line up three O's or X's in a vertical, horizontal or diagonal line to win. </p> 
   <p> Prevent your opponent from doing the same. </p>
