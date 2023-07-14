@@ -7,7 +7,7 @@
   <li> Player sccore. </li>
   <li> Animation on player win. </li>
   <li> hover animation on box to draw focus.</li>
-  <li> Change background colour of game squares on hover </li>
+  <li> Change background colour of game squares on hover. </li>
 </ol>
 
 <h3> <ins> How to play! </ins> </h3>
