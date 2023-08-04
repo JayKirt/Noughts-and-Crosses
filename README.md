@@ -1,4 +1,4 @@
-<h1> <ins> Noughts-and-Crosses. </ins> </h1>
+<h1><ins>Noughts-and-Crosses.</ins></h1>
 <h2>A simple noughts and crosses game. </h2>
 <h3>To do: </h3>
 <ol>
