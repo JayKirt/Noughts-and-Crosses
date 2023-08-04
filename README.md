@@ -6,7 +6,7 @@
   <li>Chooseable player colous for X's and O's.</li>
   <li>Player sccore.</li>
   <li>Animation on player win.</li>
-  <li> hover animation on box to draw focus.</li>
+  <li>hover animation on box to draw focus.</li>
   <li> Change background colour of game squares on hover. </li>
 </ol>
 
