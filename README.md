@@ -2,8 +2,8 @@
 <h2> A simple noughts and crosses game. </h2>
 <h3> To do: </h3>
 <ol>
-  <li> Add user input usernames. </li> 
-  <li> Chooseable player colous for X's and O's. </li>
+  <li>Add user input usernames.</li> 
+  <li>Chooseable player colous for X's and O's.</li>
   <li> Player sccore. </li>
   <li> Animation on player win. </li>
   <li> Hover animation on box to draw focus. </li>
